@@ -21,3 +21,9 @@ Links and other stuff related to hack4gov.be
 ## Challenge: eVoting
 
 - [eVoting machine manufacturer adds paper back again](https://techcrunch.com/2019/06/09/voting-machine-maker-election-security/)
+- [Security Analysis of Estonia's Internet Voting System](https://www.youtube.com/watch?v=PT0e9yTD2M8)
+- [Why Don't We Vote Online in Elections? - TLDR Explains](https://www.youtube.com/watch?v=F5OvGTf4AV0)
+
+## Challenge: stadium ban
+
+- [FPS BOSA DG DT FSB services](https://dtservices.bosa.be/nl/services/fsb/catalogue#PersonServices%20(S034))
