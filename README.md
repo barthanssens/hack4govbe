@@ -1,5 +1,5 @@
 # hack4govbe
-Links and other stuff related to hack4gov.be
+Links and other stuff related to hack4gov.be challenges.
 
 ## Challenge: paying taxes
 
