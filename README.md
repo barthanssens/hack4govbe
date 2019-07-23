@@ -12,7 +12,7 @@ Links and other stuff related to hack4gov.be
 - [Belgian MobiScore](https://mobiscore.io/scores): (not the Mobiscore from Flanders), shows access to public transport
 - [MijnGemeente](https://statbel.fgov.be/nl/nieuws/ontdek-uw-gemeente): StatBel vizualisation of various statistics per municipality
 - CityChecker (Fedict, 2011)
-- 
+- [Realo](https://realo.zendesk.com/hc/nl/articles/207991409-Welke-data-gebruikt-Realo-voor-de-Realo-Schattingen-): commercial real estate company, estimating prices based on several data sources
 
 ## Challenge: disasters
 
