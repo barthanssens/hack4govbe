@@ -18,6 +18,7 @@ Links and other stuff related to hack4gov.be
 
 - [BeAlert](https://be-alert.be/en): BeAlert
 - [Sahana/EDEN](https://sahanafoundation.org/eden/): open source crowd-sourced disaster management software
+- [EmerGISy](http://tmabbkt189.189.axc.nl/pres/4_BrandweerzoneCentrum_EmerGISy.pdf): GIS environment for fire department zones
 - [Flood4Cast](https://vito.be/nl/nieuws/tool-flood4cast-kan-wateroverlast-voorspellen): tool to forecast floods, by VITO
 - [ButterFly SmartCity](https://www.payservices.com/front/index.php): commercial app with localized emergency services / notifications
 
