@@ -9,8 +9,8 @@ Links and other stuff related to hack4gov.be
 
 ## Challenge: real estate
 
-- [Belgian MobiScore] (https://mobiscore.io/scores): (not the Mobiscore from Flanders), shows access to public transport
-- [MijnGemeente] (https://statbel.fgov.be/nl/nieuws/ontdek-uw-gemeente): StatBel vizualisation of various statistics per municipality
+- [Belgian MobiScore](https://mobiscore.io/scores): (not the Mobiscore from Flanders), shows access to public transport
+- [MijnGemeente](https://statbel.fgov.be/nl/nieuws/ontdek-uw-gemeente): StatBel vizualisation of various statistics per municipality
 
 ## Challenge: disasters
 
