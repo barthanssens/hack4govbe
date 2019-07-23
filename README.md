@@ -1,5 +1,5 @@
 # Prepare for hack4govbe
-Personal collection of links and other stuff related to the upcoming [hack4gov.be](http://www.hack4gov.be/) challenges.
+My personal collection of links and other stuff related to the upcoming [hack4gov.be](http://www.hack4gov.be/) challenges.
 
 ## Challenge: paying taxes
 
