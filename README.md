@@ -17,6 +17,7 @@ Links and other stuff related to hack4gov.be challenges.
 ## Challenge: disasters
 
 - [BeAlert](https://be-alert.be/en): BeAlert
+- [NGI cartography](http://www.ngi.be/NL/NL1-16-Incendies.shtm): NGI wildfire cartography
 - [Sahana/EDEN](https://sahanafoundation.org/eden/): open source crowd-sourced disaster management software
 - [EmerGISy](http://tmabbkt189.189.axc.nl/pres/4_BrandweerzoneCentrum_EmerGISy.pdf): GIS environment for fire department zones
 - [Flood4Cast](https://vito.be/nl/nieuws/tool-flood4cast-kan-wateroverlast-voorspellen): tool to forecast floods, by VITO
