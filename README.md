@@ -33,3 +33,4 @@ My personal collection of links and other stuff related to the upcoming [hack4go
 ## Challenge: stadium ban
 
 - [FPS BOSA DG DT FSB services](https://dtservices.bosa.be/nl/services/fsb/catalogue#PersonServices%20(S034))
+- [Article about football hooligans](https://www.standaard.be/cnt/dmf20160502_02269229)
