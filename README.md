@@ -29,6 +29,7 @@ My personal collection of links and other stuff related to the upcoming [hack4go
 - [Security Analysis of Estonia's Internet Voting System](https://www.youtube.com/watch?v=PT0e9yTD2M8)
 - [Why Don't We Vote Online in Elections? - TLDR Explains](https://www.youtube.com/watch?v=F5OvGTf4AV0)
 - [eVoting and peer pressure](http://www.social-informatics.net/Frankfurt2003.pdf)
+- [Moscow Blockchain eVoting system hacked](https://www.zdnet.com/article/moscows-blockchain-voting-system-cracked-a-month-before-election/)
 
 ## Challenge: stadium ban
 
