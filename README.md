@@ -31,6 +31,7 @@ My personal collection of links and other stuff related to the upcoming [hack4go
 - [Why Don't We Vote Online in Elections? - TLDR Explains](https://www.youtube.com/watch?v=F5OvGTf4AV0)
 - [eVoting and peer pressure](http://www.social-informatics.net/Frankfurt2003.pdf)
 - [Moscow Blockchain eVoting system hacked](https://www.zdnet.com/article/moscows-blockchain-voting-system-cracked-a-month-before-election/)
+- [Twitter thread on Swiss eVoting system vulnerabilities](https://twitter.com/SarahJamieLewis/status/1112776403823419392)
 
 ## Challenge: stadium ban
 
