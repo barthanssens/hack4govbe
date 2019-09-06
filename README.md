@@ -14,6 +14,7 @@ My personal collection of links and other stuff related to the upcoming [hack4go
 - CityChecker (Fedict, 2011)
 - [Realo](https://realo.zendesk.com/hc/nl/articles/207991409-Welke-data-gebruikt-Realo-voor-de-Realo-Schattingen-): commercial real estate company, estimating prices based on several data sources
 - [Woningpas Vlaanderen](https://woningpas.vlaanderen.be/) / [BuildingPass Vlaanderen](https://joinup.ec.europa.eu/solution/building-passport-flanders-woningpas/about): unique integral digital file of every house in Flanders, accessible to the homeowner
+- [GIM BelMap](http://www.belmap.be): commercial product combining location data, building data etc
 
 ## Challenge: disasters
 
