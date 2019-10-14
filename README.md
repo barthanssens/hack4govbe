@@ -10,7 +10,7 @@ My personal collection of links and other stuff related to the upcoming [hack4go
 ## Challenge: real estate
 
 - [Belgian MobiScore](https://mobiscore.io/scores): (not the Mobiscore from Flanders), shows access to public transport
-- [MijnGemeente](https://statbel.fgov.be/nl/nieuws/ontdek-uw-gemeente): StatBel vizualisation of various statistics per municipality
+- [MijnGemeente](https://statbel.fgov.be/nl/nieuws/ontdek-uw-gemeente): StatBel visualization of various statistics per municipality
 - CityChecker (Fedict, 2011)
 - [Realo](https://realo.zendesk.com/hc/nl/articles/207991409-Welke-data-gebruikt-Realo-voor-de-Realo-Schattingen-): commercial real estate company, estimating prices based on several data sources
 - [Woningpas Vlaanderen](https://woningpas.vlaanderen.be/) / [BuildingPass Vlaanderen](https://joinup.ec.europa.eu/solution/building-passport-flanders-woningpas/about): unique integral digital file of every house in Flanders, accessible to the homeowner
