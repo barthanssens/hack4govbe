@@ -36,6 +36,9 @@ My personal collection of links and other stuff related to the upcoming [hack4go
 
 ## Challenge: stadium ban
 
+[Suggestion for solution](challenge/stadionverbod/README.md)
+
+Links:
 - [FPS BOSA DG DT FSB services](https://dtservices.bosa.be/nl/services/fsb/catalogue#PersonServices%20(S034))
 - [Article about football hooligans](https://www.standaard.be/cnt/dmf20160502_02269229)
 - [Face recognition pilot](https://www.demorgen.be/nieuws/je-gezicht-laten-registreren-om-sneller-binnen-te-kunnen-in-een-voetbalstadion-bij-rwdm-kan-het~bc24371d/)
