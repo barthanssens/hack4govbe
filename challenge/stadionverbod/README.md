@@ -34,7 +34,15 @@ Dit rijksregisternummer kan ingelezen worden via de eID-kaart:
 - via de chip door de eID-kaart in de kaartlezer te steken
 - of door de barcode op de achterkant van de eID-kaart te scannen.
 
-### Aandachtspunten
+Indien de persoon geen toegang heeft, kan er een rood scherm getoond worden en/of meteen de veiligheidsdiensten verwittigd worden.
+
+### Voordelen / nadelen
+
+Het voordeel van deze aanpak is dat enkel het minimum aan persoonsgebonden informatie uitgewisseld wordt, en dat er ook bijgehouden wordt wie, wanneer en waar gecontroleerd werd.
+
+Nadeel is dat er dan in elk stadium ook op voldoende plaatsen aan de ingang internettoegang (al dan niet via WiFi of netwerkkabels) moet zijn, en dat de applicatie dan ook gegarandeerd beschikbaar moet zijn op wedstrijddagen ("Service Level Agreement")
+
+## Aandachtspunten
 
 - Wat met personen zonder Belgische identiteitskaart ? Mogelijk paspoort of buitenlandse eID kaart.
 - Beveiliging is maar zo sterk als de zwakste schakel: controle identiteitskaart werkt niet als er bijvoorbeeld over een muur geklommen kan worden...
