@@ -9,6 +9,7 @@ My personal collection of links and other stuff related to the upcoming [hack4go
 
 ## Challenge: real estate
 
+- [Federal open data portal](https://data.gov.be), list of various open data sources, a [full download of all metadata](https://github.com/Fedict/dcat/raw/master/all/datagovbe_edp.xml) in XML is also available (75 MB)
 - [Belgian MobiScore](https://mobiscore.io/scores): (not the Mobiscore from Flanders), shows access to public transport
 - [MijnGemeente](https://statbel.fgov.be/nl/nieuws/ontdek-uw-gemeente): StatBel visualization of various statistics per municipality
 - CityChecker (Fedict, 2011)
