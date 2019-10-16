@@ -37,6 +37,7 @@ My personal collection of links and other stuff related to the upcoming [hack4go
 - [Moscow Blockchain eVoting system hacked](https://www.zdnet.com/article/moscows-blockchain-voting-system-cracked-a-month-before-election/)
 - [Twitter thread on Swiss eVoting system vulnerabilities](https://twitter.com/SarahJamieLewis/status/1112776403823419392)
 - [Digitaal Referendum Kortrijk](https://www.kortrijk.be/digitaalreferendum/digitaal-stemmen-hoe-doe-je-dat)
+- [cryptography expert Bruce Schneier on Securing Elections](https://www.schneier.com/blog/archives/2018/04/securing_electi_1.html)
 
 ## Challenge: stadium ban
 
